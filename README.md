@@ -23,7 +23,8 @@ Project follows Symfony framework's naming convetions, i.e. camelCase all over.
 
 ## External libraries
 PHPUnit https://phpunit.de/ <br/>
-PHP Coding Standards Fixer https://github.com/FriendsOfPHP/PHP-CS-Fixer 
+PHP Coding Standards Fixer https://github.com/FriendsOfPHP/PHP-CS-Fixer <br/>
+PHP DocBlocker (vs code extention) https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker
 
 
 
