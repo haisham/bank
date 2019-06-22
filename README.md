@@ -19,7 +19,7 @@ PHP-CS-Fixer is recommended to ensure required standards which also takes care o
 On root folder run : php-cs-fixer fix src/  --rules=@PSR2
 
 ## Naming conventions
-Project follows Symfony framework's naming convetions, i.e. camelCase all over.
+Project follows Symfony framework's naming conventions, i.e. camelCase all over.
 
 ## External libraries
 PHPUnit https://phpunit.de/ <br/>
